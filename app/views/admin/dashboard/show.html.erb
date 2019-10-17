@@ -4,7 +4,12 @@
     <h1>Admin &raquo; Dashboard</h1>
   </header>
   
-  <h3><span class="col-lg-6 col-lg-offset-3 text-center glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>Total Products: <%= link_to @total_products, admin_products_path(@products)  %></h3>
-  <h3><span class="col-lg-6 col-lg-offset-3 text-center glyphicon glyphicon-th-list" aria-hidden="true"></span>Total Categories: <%= link_to @total_categories, admin_products_path(@products) %></h3>
+  <h3>
+    <span class="col-lg-6 col-lg-offset-3 text-center glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
+    Total Products: <%= link_to @total_products, admin_products_path(@products)  %></h3>
+  <h3>
+    <span class="col-lg-6 col-lg-offset-3 text-center glyphicon glyphicon-th-list" aria-hidden="true"></span>
+    Total Categories: <%= link_to @total_categories, admin_products_path(@products) %>
+  </h3>
 
 </section>
