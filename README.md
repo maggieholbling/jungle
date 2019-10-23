@@ -4,6 +4,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 Index page with all products
 ![Index page with all products](https://i.gyazo.com/e7ce30355acaa38349c8ffd803ec3985.png)
+
 Cart showing products
 ![Cart showing products](https://i.gyazo.com/c3b89cab09db1b9511557dff8d64532b.png)
 
