@@ -2,6 +2,9 @@
 
 A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
 
+![Index page with all products](https://gyazo.com/e7ce30355acaa38349c8ffd803ec3985)
+![Cart showing products](https://gyazo.com/c3b89cab09db1b9511557dff8d64532b)
+
 
 ## Setup
 
